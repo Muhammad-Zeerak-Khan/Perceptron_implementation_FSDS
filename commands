@@ -1,0 +1,17 @@
+#Perceptron_implementation
+
+To create empty file usng git bash
+'''
+touch filename
+'''
+
+--To create an environment
+'''
+conda create --prefix ./env python==3.7 -y
+'''
+
+--To activate an environment
+
+'''
+conda activate ./env
+'''
